@@ -15,3 +15,4 @@ Open Teensy Loader. Connect the MADIface as explained in step 3.3 in  Press "UPL
 Now that you're all set up, you can start using the app. Place the tactile pad on a participant's abdomen. You are now able to send some commands using the Arduino keyboard. These numbers represent the indexes of the actuators that will vibrate. At the end of each iteration of the code, the participant will have to enter the vibrations they recognized.
 
 
+Should you have any questions, you can contact us at: dariamarinag@yahoo.com or tpbianca19@gmail.com . We are more than happy to help. :)
